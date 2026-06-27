@@ -158,4 +158,4 @@ All required libraries are pre-installed in those environments.
 **Muhammad Usman**  
 BS Computer Science — University of Karachi  
 IBM Data Analyst Certified  
-[GitHub](https://github.com/MUsman18) • [LinkedIn](https://www.linkedin.com/in/muhammad-usman)
+[GitHub](https://github.com/UsmanAdil18) • [LinkedIn](https://www.linkedin.com/in/muhammad-usman-72a03241a/)
